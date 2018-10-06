@@ -1,2 +1,0 @@
-# IonicLearning
-Learning Ionic 
